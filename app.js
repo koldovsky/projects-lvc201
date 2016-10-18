@@ -184,8 +184,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Taras Borovets",
-            "websiteUrl": "",
-            "codeSourceUrl": "",
+            "websiteUrl": "https://tarasborovets.github.io/mysite/",
+            "codeSourceUrl": "https://github.com/TarasBorovets/mysite",
             "cvUrl": "",
             "photo": "images/students/borovets.jpg"
         },
