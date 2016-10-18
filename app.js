@@ -79,8 +79,8 @@ app.service('studentService', ['$q', function ($q) {
     var students = [
         {
             "name": "Artur Savluk",
-            "websiteUrl": "",
-            "codeSourceUrl": "",
+            "websiteUrl": "https://palyvodaboi.github.io/somali/",
+            "codeSourceUrl": "https://github.com/palyvodaBoi/somali",
             "cvUrl": "https://ua.linkedin.com/in/arthur-savluk-b1322991",
             "photo": "images/students/savluk.jpg"
         },
