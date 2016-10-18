@@ -40,3 +40,10 @@
 .cell img {
   max-height: 800px;
 }
+
+input {
+  margin-right: 10px;
+  margin-left: 99px;
+  margin-top: 10px;
+  border: 0;
+}

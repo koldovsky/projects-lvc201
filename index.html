@@ -22,7 +22,7 @@
            <md-checkbox ng-checked="isChosenOnly" ng-click="toggleChosen(isChosenOnly)">
            </md-checkbox>
         </div>-->
-        <input type="text" ng-model="query">
+        <input type="text" ng-model="query" placeholder="type to filter">
         <div layout="row">
           <md-list class="student-list">
             <md-item ng-repeat="student in students | filter: filterByData | filter: {name: query} | orderBy: 'name'">
