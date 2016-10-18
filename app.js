@@ -149,10 +149,10 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Karina Hul'ka",
-            "websiteUrl": "",
-            "codeSourceUrl": "",
+            "websiteUrl": "https://karina271.github.io/portfolio/",
+            "codeSourceUrl": "https://github.com/Karina271/portfolio",
             "cvUrl": "",
-            "photo": "images/students/hul'ka.jpg"
+            "photo": "images/students/hulka.jpg"
         },
         {
             "name": "Andrii Rura",
